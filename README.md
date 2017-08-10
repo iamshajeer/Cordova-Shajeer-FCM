@@ -1,6 +1,11 @@
 # Google Firebase Cloud Messaging Cordova Push Plugin
 > Extremely easy plug&play push notification plugin for Cordova applications with Google Firebase FCM.
 
+#### This plugin is an advanced version of https://github.com/fechanique/cordova-plugin-fcm
+## The android part is modified to support 
+ - Image notifications
+ - Supporting lollipop and above transparent notification icon (add your custom icons to res/drawable, incase you rename the  icon you have to rename it in the java file as well, also please update the fcm notification model based on your requirment and usage)
+
 #### Version 2.1.2 (03/06/2017)
 - Tested on Android and iOS using Cordova cli 6.4.0, Cordova android 6.0.0 and Cordova ios 4.3.1
 - Available sdk functions: onTokenRefresh, getToken, subscribeToTopic, unsubscribeFromTopic and onNotification
