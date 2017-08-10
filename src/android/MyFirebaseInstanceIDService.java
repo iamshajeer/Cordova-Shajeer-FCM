@@ -6,7 +6,7 @@ import com.google.firebase.iid.FirebaseInstanceId;
 import com.google.firebase.iid.FirebaseInstanceIdService;
 
 /**
- * Created by Felipe Echanique on 08/06/2016.
+ * Created by Shajeer Ahamed on 08/06/2017.
  */
 public class MyFirebaseInstanceIDService extends FirebaseInstanceIdService {
 

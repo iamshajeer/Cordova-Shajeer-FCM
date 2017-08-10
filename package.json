@@ -56,7 +56,7 @@
   "engines": [],
   "englishdoc": "",
   "gitHead": "037cb5bc6cc17247c46dd433f3440e080f5f1a62",
-  "homepage": "https://github.com/fechanique/cordova-plugin-fcm#readme",
+  "homepage": "https://github.com/iamshajeer/Cordova-Shajeer-FCM#readme",
   "issue": "",
   "keywords": [
     "android",
@@ -77,7 +77,7 @@
       "email": "info4shajeer@gmail.com"
     }
   ],
-  "name": "cordova-plugin-fcm",
+  "name": "cordova-fcm-shajeer",
   "optionalDependencies": {},
   "platforms": [
     "android",
@@ -87,7 +87,7 @@
   "repo": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fechanique/cordova-plugin-fcm.git"
+    "url": "https://github.com/iamshajeer/Cordova-Shajeer-FCM.git"
   },
   "scripts": {},
   "version": "2.1.2"

@@ -30,7 +30,7 @@ import java.net.URL;
 import java.util.Map;
 
 /**
- * Created by Felipe Echanique on 08/06/2016.
+ * Created by Shajeer Ahamed on 08/06/2017.
  */
 public class MyFirebaseMessagingService extends FirebaseMessagingService {
 
