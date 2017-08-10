@@ -6,7 +6,7 @@
  - Image notifications
  - Supporting lollipop and above transparent notification icon (add your custom icons to res/drawable, incase you rename the  icon you have to rename it in the java file as well, also please update the fcm notification model based on your requirment and usage)
 
-#### Version 1.1.0 (10/08/2017)
+#### Version 2.1.3 (10/08/2017)
 - Tested on Android and iOS using Cordova cli 6.4.0, Cordova android 6.0.0 and Cordova ios 4.3.1
 - Available sdk functions: onTokenRefresh, getToken, subscribeToTopic, unsubscribeFromTopic and onNotification
 - 'google-services.json' and 'GoogleService-Info.plist' are added automatically from Cordova project root to platform folders

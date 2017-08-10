@@ -42,7 +42,7 @@
     "name": "Shajeer Ahamed"
   },
   "bugs": {
-    "url": "https://github.com/fechanique/cordova-plugin-fcm/issues"
+    "url": "https://github.com/iamshajeer/Cordova-Shajeer-FCM/issues"
   },
   "cordova_name": "Cordova FCM Push Plugin",
   "dependencies": {},
@@ -90,5 +90,5 @@
     "url": "https://github.com/iamshajeer/Cordova-Shajeer-FCM.git"
   },
   "scripts": {},
-  "version": "2.1.2"
+  "version": "2.1.4"
 }
