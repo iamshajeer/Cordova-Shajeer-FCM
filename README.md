@@ -28,10 +28,6 @@ Put the downloaded file 'google-services.json' in the Cordova project root folde
 
 You will need to ensure that you have installed the appropiate Android SDK libraries.
 
-
-:warning: For Android >5.0 status bar icon, you must include transparent solid color icon with name 'fcm_push_icon.png' in the 'res' folder in the same way you add the other application icons.
-If you do not set this resource, then the SDK will use the default icon for your app which may not meet the standards for Android >5.0.
-
 #### iOS compilation details
 Put the downloaded file 'GoogleService-Info.plist' in the Cordova project root folder.
 
