@@ -1,3 +1,20 @@
+```html
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="RM3VMM3LP3JVL">
+<table>
+<tr><td><input type="hidden" name="on0" value="Donate">Donate</td></tr><tr><td><select name="os0">
+  <option value="Coffee">Coffee $5.00 USD</option>
+  <option value="Beer">Beer $10.00 USD</option>
+  <option value="Meal">Meal $15.00 USD</option>
+</select> </td></tr>
+</table >
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+</form>
+```
+
 # Google Firebase Cloud Messaging Cordova Push Plugin
 > Extremely easy plug&play push notification plugin for Cordova applications with Google Firebase FCM.
 
@@ -6,7 +23,8 @@
  - Image notifications
  - Supporting lollipop and above transparent notification icon (add your custom icons to res/drawable, incase you rename the  icon you have to rename it in the java file as well, also please update the fcm notification model based on your requirment and usage)
 
-#### Version 2.1.3 (10/08/2017)
+#### Version 2.1.7 (17/08/2017)
+- Resolved minor code issue
 - Tested on Android and iOS using Cordova cli 6.4.0, Cordova android 6.0.0 and Cordova ios 4.3.1
 - Available sdk functions: onTokenRefresh, getToken, subscribeToTopic, unsubscribeFromTopic and onNotification
 - 'google-services.json' and 'GoogleService-Info.plist' are added automatically from Cordova project root to platform folders
